@@ -1,0 +1,144 @@
+/* here you can put your own css to customize and override the theme */
+#body_bg {
+    height: 100%;
+    background: #bafdff;
+    background: -webkit-linear-gradient(left, #aef6fa, #cff9fc, #dcfbfd, #cff9fc, #aef6fa);
+    background: -o-linear-gradient(right, #aef6fa,#cff9fc, #dcfbfd, #cff9fc, #aef6fa);
+    background: -moz-linear-gradient(right, #aef6fa,#cff9fc, #dcfbfd, #cff9fc, #aef6fa);
+    background: linear-gradient(to right, #aef6fa, #cff9fc, #dcfbfd, #cff9fc, #aef6fa);
+    overflow: scroll;
+}
+
+.signin_title {
+    color: #eaeaea;
+    font-weight: 500;
+}
+
+.product_title {
+    font-weight: bold;
+    font-family: 'Mali',cursive;
+}
+
+.logo_a {
+    padding: 12px 0 12px 0;
+    margin: 0;
+}
+
+.logo_img {
+    width: 50px;
+    height: 50px;
+}
+
+.logo_title_img {
+    width: 200px;
+    height: 30px;
+}
+.prefooter_img {
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+.footer-height {
+    height: 65px;
+}
+.icon_hover:hover {
+    filter: brightness(50%);
+}
+.tag_title {
+    color: rgba(255,0,0,0.73);
+    text-align: center;
+    font-weight: bold;
+    margin: 40px 0 40px 0;
+}
+.table_img {
+    width: 30px;
+    height: 30px;
+}
+th,td {
+    text-align: center;
+}
+.margin-top-0 {
+    margin-top: 0;
+}
+.margin-0 {
+    margin: 0;
+}
+.margin-auto {
+    margin: auto;
+}
+.modal-header-fail-color {
+    background: #ff746f;
+}
+.modal-header-success-color {
+    background: #55ff61;
+}
+.modal-header-wait-color {
+    background: #94e0ff;
+}
+.white {
+    color: white;
+}
+.text-center {
+    text-align: center;
+}
+.table-header-blue {
+    background: #1864ab;
+}
+.thead-color {
+    background: #e4e4e4;
+}
+.product-name-color {
+    color: #0c75be;
+}
+.avatar-size {
+    width: 50px;
+    height: 50px;
+}
+.avatar-list-padding {
+    padding: 12px 0 12px 0;
+}
+.button-width {
+    width: 200px;
+}
+.year-style {
+    font-family: 'Mali',cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
+.year-style:hover {
+    text-decoration: none;
+    color: #33a3ff;
+}
+.month-style {
+    font-family: 'Mali',cursive;
+    font-size: 25px;
+    font-weight: bold;
+}
+.month-style:hover {
+    text-decoration: none;
+    color: #33a3ff;
+}
+.this {
+    color: #1c47b5;
+}
+.padding-30 {
+    padding: 30px;
+}
+.category-style {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Mali',cursive;
+}
+.category-style:hover {
+    text-decoration: none;
+    color: #33a3ff;
+}
+.trash:hover {
+    color: red;
+}
+.danger-bg {
+    background: #ff6b38;
+}
+.success-bg {
+    background: #3aff9d;
+}
